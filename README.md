@@ -32,4 +32,4 @@
 ---
 
 ### ⚡ Fun Fact
-I love building secure and scalable full stack applications — from a web-based video editor to a license plate recognition system — and I’m always exploring new ways to blend **AI** with real-world solutions.
+I love building secure and scalable full stack applications — from a web-based video editor and a license plate recognition system — and I’m always exploring new ways to blend **AI** with real-world solutions.
